@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/olx.in.com/static/css/main.f8093656.css",
+    "main.js": "/olx.in.com/static/js/main.1b85d78f.js",
+    "index.html": "/olx.in.com/index.html",
+    "main.f8093656.css.map": "/olx.in.com/static/css/main.f8093656.css.map",
+    "main.1b85d78f.js.map": "/olx.in.com/static/js/main.1b85d78f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8093656.css",
+    "static/js/main.1b85d78f.js"
+  ]
+}
