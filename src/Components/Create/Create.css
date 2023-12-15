@@ -1,0 +1,56 @@
+.parentCreate{
+  padding-left: 12rem;
+  height: 40rem;
+  width: 85rem;
+  background-size: cover;
+  background-position: center;  
+  margin-right: 50rem;
+}
+
+.parentCreate h2{
+  margin-top: 80px;
+  margin-left: -50px;
+}
+.parentCreate .childInputs{
+  padding-left: 30px;
+  margin-top: 20px;
+}
+.childInputs input{
+  border: none;
+  outline: none;
+  border-top:3px solid grey;
+  border-left:3px solid grey;
+}
+.description textarea{
+  border: none;
+  outline: none;
+  border-top:3px solid grey;
+  border-left:3px solid grey;
+}
+.uploadPhotos{
+  margin-top: 10px;
+}
+.uploadPhotos img{
+  margin-left: 220px;
+}
+.uploadPhotos input {
+  margin-left: 220px;
+}
+.childInputs label{
+  position: absolute;
+}
+.description label{
+  position: absolute;
+}
+.parentCreate button{
+  padding: 10px 20px;
+  color: white;
+  background-color: green;
+}
+.parentCreate button:hover{
+  color: black;
+  background-color: white;
+}
+.parentCreate::-webkit-scrollbar{
+  display: none;
+}

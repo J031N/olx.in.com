@@ -1,0 +1,36 @@
+.bannerParentDiv {
+    padding-top: 4em;
+    
+  }
+  
+   .menuBar {
+    display: flex;
+    padding: 10px 16px 10px 16px;
+    
+    
+    
+  }
+  .categoryMenu span{
+    margin-right: 16px;
+    font-weight: bolder;
+  }
+  .otherQuickOptions span {
+    padding: 10px;
+  }
+  .Banner{
+    position: relative;
+    width: 100vw;
+  
+  }
+  .banner img{
+   
+    left: 0;
+    
+  }
+  
+
+
+
+  
+  
+  

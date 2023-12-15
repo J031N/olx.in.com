@@ -1,0 +1,113 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  
+  background-color: #fff;
+ 
+
+ 
+ 
+}
+.header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: px;
+  width: 100%;
+ 
+
+}
+.sign{
+  font-size: 48px;
+  font-weight: 700;
+  color: #3c009d;
+  margin-top: 20px;
+  margin-right: 3rem; 
+}
+.underline{
+  width: 61px;
+  height: 6px;
+  background: #3c009d;
+  border-radius: 9px;
+}
+.inputs{
+margin-top: -30rem;
+display: flex;
+flex-direction: column;
+gap: 20px; 
+
+}
+.input{
+  display: flex;
+  margin: auto;
+  align-items: center;
+  width: 400px;
+  height: 60px;
+  background:#eaeaea ;
+}
+.input input{
+  height: 40px;
+  width: 400px;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: #797979;
+  font-size: 20px;
+}
+.input img{
+      width: 40px;
+      margin: 0px 20px;
+}
+
+.submit-btn{
+  gap: 20px;
+  justify-content: space-between;
+  padding-right: 12rem;
+}
+.forgot{
+  padding-right: 11rem;
+  display: flex;
+  align-items: center;
+padding-top: 10px;
+}
+h4{
+  cursor: pointer;
+}
+.submi{
+width: 200px;
+height: 60px;
+justify-content: center;
+align-items: center;
+color: #fff;
+background: #4c00b4;
+border-radius: 40px;
+font-size: 20px;
+font-weight: 600;
+cursor: pointer;
+border: none;
+
+}
+.person{
+  margin-right: 10px;
+}
+.email{
+  padding-right: 10px;
+}
+.photos{
+ display: flex;
+ margin-left: -4rem;
+margin-bottom: 24rem;
+width: 270px;
+}
+.back{
+  width: 30px;
+  margin-left: 30rem;
+  font-weight: 700;
+}
+h4{
+ padding-left: 5px;
+ font-size: 18px;
+ padding-top: 10px;
+}
+
