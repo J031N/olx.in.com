@@ -23,7 +23,7 @@ const Create = () => {
     firebase.storage().ref(`/image/${image.name}`).put(image).then(({ ref }) => {
       ref.getDownloadURL().then((url) => {
 
-        firebase.firestore().collection(" products").add({
+        firebase.firestore().collection("products").add({
           name: name,
           category: category,
           price: price,
